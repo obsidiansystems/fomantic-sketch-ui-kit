@@ -1,0 +1,101 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FF9E78DE-62AA-4096-AAAA-E6AA72A2A5D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 548,
+    "width": 700,
+    "x": 1800,
+    "y": 2.842170943040401e-14
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "EB3501A0-1B71-46FB-954B-DE4B2074B30D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "50C7F79A-69DB-42CF-B437-AB6AD067DA1C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D487514F-B2E1-49B3-A69C-31F3D6E7DE76"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "99C3CA57-BC5B-4EDE-B017-453CBE64FEE4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "744B2684-9F4B-470E-AEE8-9F9948F1E632"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9B2C787A-E721-488B-8F7E-5F437CE10238"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "462C7330-8041-49CA-8A00-4A7C4B8AEFE6"
+    }
+  ],
+  "name": "Input",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 2,
+    "guides": [
+    ]
+  }
+}

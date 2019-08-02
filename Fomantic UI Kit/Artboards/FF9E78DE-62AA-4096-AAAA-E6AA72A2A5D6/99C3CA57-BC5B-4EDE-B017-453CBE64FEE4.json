@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "99C3CA57-BC5B-4EDE-B017-453CBE64FEE4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2344B4AA-3C74-4E76-AAD3-FC3CCFF3F8C1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9F5BF053-1C30-4C7E-8699-C00956294F9E",
+    "height": 38,
+    "width": 200,
+    "x": 50,
+    "y": 256
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Elements/Input/Text/Blur",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1B02CBAE-E454-450F-8190-4DEA5E40DCC0",
+      "overrideName": "608970A8-C9D6-4B75-A3E2-665215B7EFF4_textStyle",
+      "value": "74EFFEB5-E3F1-4E51-88CC-568A914481A8"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3B47BC91-F301-4A58-A525-D1A582E784A1",
+      "overrideName": "608970A8-C9D6-4B75-A3E2-665215B7EFF4_stringValue",
+      "value": "Value"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "74AB76F0-ACB1-453A-89EF-9456E566E590",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3FAC2936-41B0-4672-82BC-D392AA78F196",
+  "verticalSpacing": 0
+}

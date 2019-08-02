@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "486B8DDB-ADD0-4954-B4E0-251A3E5A82FC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FF6B5DC0-C518-4476-A7D0-4E118DA03B64",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C763E8A8-3F80-4415-B2B9-E9C2BDF6AEE7",
+    "height": 82,
+    "width": 237,
+    "x": 50,
+    "y": 166
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Collections/Message",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "702FBD5A-6B27-4EBB-BE6D-1B1F49C77F9C",
+      "overrideName": "17712F2D-2BDC-4890-A113-AE6CDA394994_layerStyle",
+      "value": "9F34C98C-3775-41AB-8BC3-A96381ADF42B"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "25058B71-16E6-404F-A500-A9A72C2BF4E7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "22B0E9FE-AC04-434D-883E-941B0FBE19D1",
+  "verticalSpacing": 0
+}

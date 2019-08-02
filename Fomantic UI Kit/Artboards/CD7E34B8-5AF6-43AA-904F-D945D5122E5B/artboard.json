@@ -1,0 +1,112 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "346142D7-5510-4870-929F-43230F8F204B",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CD7E34B8-5AF6-43AA-904F-D945D5122E5B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B15994AF-4E0A-4AA6-A030-E9436FC008E1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AD02E1FB-1ACE-4DF3-8DBD-EECF38A7E81D",
+    "height": 190,
+    "width": 700,
+    "x": 0,
+    "y": 748
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "09790B5D-E431-429A-9E8E-4BF83FFDEDA9"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0A045098-B4D2-4E8B-9790-C02995FCCDAB",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6F8619F5-D9F6-4BB4-8DD8-CBF953D2C7ED"
+    },
+    {
+      "class": "group",
+      "id": "FB21B8D1-1699-496F-817A-5AB4FA460269"
+    },
+    {
+      "class": "group",
+      "id": "00902FC7-0049-49DA-9F2D-508C8265D8E8"
+    },
+    {
+      "class": "group",
+      "id": "3F7D1858-5AF1-4BEE-B682-56041731DD5B"
+    },
+    {
+      "class": "group",
+      "id": "F547DD10-D6A4-4629-AB4A-97A71ADD66BD"
+    },
+    {
+      "class": "group",
+      "id": "3D6E5500-B2E0-4EC0-B19D-6F96F0E1D00D"
+    },
+    {
+      "class": "group",
+      "id": "3C735F38-A5B2-4650-9277-DB36CB92AB7F"
+    },
+    {
+      "class": "text",
+      "id": "0E522694-E702-49DE-9715-3AE9E94E2FF1"
+    }
+  ],
+  "name": "Button (Old Sketch File)",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "47D0021A-A68D-4502-A6AD-782EA730FEE8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "996A3CA3-7702-4533-938D-9A9488B28281",
+    "guides": [
+    ]
+  }
+}

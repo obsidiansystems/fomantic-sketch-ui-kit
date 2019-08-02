@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D487514F-B2E1-49B3-A69C-31F3D6E7DE76",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BCB99B59-45E3-4805-B24E-1784FFF83198",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AB836466-5120-4F3E-952D-36F1FCF60689",
+    "height": 38,
+    "width": 200,
+    "x": 50,
+    "y": 188
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Elements/Input/Text/Focus",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1C867479-1D7C-46DE-96FC-7BE1FDC5C0DE",
+      "overrideName": "B9E0D8A9-7DE3-4B04-A7BA-56E27EDBA54D_textStyle",
+      "value": "74EFFEB5-E3F1-4E51-88CC-568A914481A8"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5035FFFC-FBFD-4C10-BF57-6FEB2391F4D6",
+      "overrideName": "B9E0D8A9-7DE3-4B04-A7BA-56E27EDBA54D_stringValue",
+      "value": "Focus Value"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D9F0C34B-E0F9-4118-8A43-73FC2702871A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5924DC87-A12D-4028-A906-77F5F72D2E22",
+  "verticalSpacing": 0
+}
