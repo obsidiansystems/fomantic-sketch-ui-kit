@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 1,
+            "alpha": 0.6,
             "blue": 0,
             "green": 0,
             "red": 0
@@ -16,27 +16,29 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "HelveticaNeue-Medium",
-              "size": 10.5
+              "name": "HelveticaNeue-Bold",
+              "size": 12
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 12,
+            "minimumLineHeight": 12
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 30,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "Not part of the Fomantic spec."
+    "string": "Label"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "851BA7BC-8924-49CD-BCB5-FD7ED1D8B502",
+  "do_objectID": "39B8E439-2DFD-451C-B1BD-225B13CAB099",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 12,
-    "width": 149,
+    "width": 32,
     "x": 10,
-    "y": 10
+    "y": 7
   },
-  "glyphBounds": "{{0, 2}, {148, 11}}",
+  "glyphBounds": "{{0, 2}, {31, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,14 +66,16 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Not part of the Foma",
+  "name": "Label",
   "nameIsFixed": false,
-  "resizingConstraint": 10,
+  "resizingConstraint": 42,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "D542305A-C3B6-48C6-A22C-BA98EA3DA833",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "1D78CC3D-1E3D-49FD-9274-709AA3510822",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -80,7 +84,7 @@
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 1,
+          "alpha": 0.6,
           "blue": 0,
           "green": 0,
           "red": 0
@@ -88,14 +92,16 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "HelveticaNeue-Medium",
-            "size": 10.5
+            "name": "HelveticaNeue-Bold",
+            "size": 12
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 12,
+          "minimumLineHeight": 12
         },
         "textStyleVerticalAlignmentKey": 0
       },

@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5F32AF8D-8BC4-4A3A-AF21-2578F598E2B2",
+  "do_objectID": "B0970B9E-E4F6-4948-8275-DFF470EDB753",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "67F80D19-7CC7-4FAE-8B10-6B9F2FB6B9E2",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
-    "width": 85,
-    "x": 50,
-    "y": 50
+    "do_objectID": "1ED14A0A-BA77-4D72-8C4C-FD0608D99344",
+    "height": 40,
+    "width": 104,
+    "x": 150,
+    "y": 226
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,15 +30,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Elements/Button/Standard",
+  "name": "Collections/Menu/Pointing/Secondary/Item",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "75F0D07E-0B41-4379-B3A9-FACB0CF2B2B8",
-      "overrideName": "E28B9828-E51B-464E-B027-27320E627CCF_stringValue",
-      "value": "Button"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -45,11 +41,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "32630BAF-8585-412E-885D-2D6245619DAE",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "2B301B03-E869-4962-805E-06AE4694892E",
+  "symbolID": "64BFFDE3-F4C4-416E-BBF9-4B609D74908C",
   "verticalSpacing": 0
 }

@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 1,
+            "alpha": 0.87,
             "blue": 0,
             "green": 0,
             "red": 0
@@ -16,27 +16,29 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "HelveticaNeue-Medium",
-              "size": 10.5
+              "name": "HelveticaNeue",
+              "size": 14
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 14,
+            "minimumLineHeight": 14
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 30,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "Not part of the Fomantic spec."
+    "string": "Menu Item"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "851BA7BC-8924-49CD-BCB5-FD7ED1D8B502",
+  "do_objectID": "411336DE-CF8F-43E7-98C7-C007AF2A7556",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 12,
-    "width": 149,
-    "x": 10,
-    "y": 10
+    "height": 14,
+    "width": 67,
+    "x": 16,
+    "y": 12
   },
-  "glyphBounds": "{{0, 2}, {148, 11}}",
+  "glyphBounds": "{{1, 3}, {65, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Not part of the Foma",
+  "name": "Menu Item",
   "nameIsFixed": false,
   "resizingConstraint": 10,
   "resizingType": 0,
@@ -80,7 +82,7 @@
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 1,
+          "alpha": 0.87,
           "blue": 0,
           "green": 0,
           "red": 0
@@ -88,14 +90,16 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "HelveticaNeue-Medium",
-            "size": 10.5
+            "name": "HelveticaNeue",
+            "size": 14
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 14,
+          "minimumLineHeight": 14
         },
         "textStyleVerticalAlignmentKey": 0
       },

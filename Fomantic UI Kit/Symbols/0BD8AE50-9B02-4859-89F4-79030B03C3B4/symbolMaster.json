@@ -1,5 +1,6 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -7,9 +8,10 @@
     "green": 1,
     "red": 1
   },
-  "booleanOperation": 0,
+  "booleanOperation": -1,
+  "changeIdentifier": 34,
   "clippingMaskMode": 0,
-  "do_objectID": "041192F4-6521-45C8-A597-DC84886E5639",
+  "do_objectID": "0BD8AE50-9B02-4859-89F4-79030B03C3B4",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 548,
-    "width": 700,
-    "x": 0,
-    "y": 0
+    "height": 26,
+    "width": 52,
+    "x": 4669,
+    "y": -1.77635683940025e-15
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -40,6 +42,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -47,24 +50,37 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "5F32AF8D-8BC4-4A3A-AF21-2578F598E2B2"
+      "class": "rectangle",
+      "id": "E74B5412-049E-4B10-9C6F-097F540E7514"
     },
     {
-      "class": "symbolInstance",
-      "id": "770224C2-3AAC-4848-889B-93648B4C8356"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "14096E77-10FA-447B-97B7-37B31BFDE21E"
+      "class": "text",
+      "id": "39B8E439-2DFD-451C-B1BD-225B13CAB099"
     }
   ],
-  "name": "Button",
-  "nameIsFixed": true,
-  "resizesContent": false,
+  "name": "Elements/Label/Standard",
+  "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "39B8E439-2DFD-451C-B1BD-225B13CAB099_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "39B8E439-2DFD-451C-B1BD-225B13CAB099_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E74B5412-049E-4B10-9C6F-097F540E7514_layerStyle"
+    }
+  ],
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -76,6 +92,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "87C60FF1-FF31-4273-900A-D7E56F594B78",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

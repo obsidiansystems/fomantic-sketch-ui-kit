@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5F32AF8D-8BC4-4A3A-AF21-2578F598E2B2",
+  "do_objectID": "E85C4E40-2365-4915-983D-8931333E67C3",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
-    "width": 85,
-    "x": 50,
-    "y": 50
+    "height": 40,
+    "width": 99,
+    "x": 51,
+    "y": 226
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,15 +28,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Elements/Button/Standard",
+  "name": "Collections/Menu/Pointing/Secondary/Item",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "75F0D07E-0B41-4379-B3A9-FACB0CF2B2B8",
-      "overrideName": "E28B9828-E51B-464E-B027-27320E627CCF_stringValue",
-      "value": "Button"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -50,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "2B301B03-E869-4962-805E-06AE4694892E",
+  "symbolID": "9E1A7A7B-BA69-49B5-AC69-DF8062F018D5",
   "verticalSpacing": 0
 }

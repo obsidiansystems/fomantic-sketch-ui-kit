@@ -1,5 +1,6 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -7,9 +8,10 @@
     "green": 1,
     "red": 1
   },
-  "booleanOperation": 0,
+  "booleanOperation": -1,
+  "changeIdentifier": 67,
   "clippingMaskMode": 0,
-  "do_objectID": "041192F4-6521-45C8-A597-DC84886E5639",
+  "do_objectID": "D8734F3A-58BD-469A-B247-2606327C3622",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,9 +24,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 548,
-    "width": 700,
-    "x": 0,
+    "height": 40,
+    "width": 99,
+    "x": 4821,
     "y": 0
   },
   "groupLayout": {
@@ -40,6 +42,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -47,24 +50,31 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "5F32AF8D-8BC4-4A3A-AF21-2578F598E2B2"
+      "class": "rectangle",
+      "id": "F2E9D26A-25CD-44D4-88AF-43506271FBD0"
     },
     {
-      "class": "symbolInstance",
-      "id": "770224C2-3AAC-4848-889B-93648B4C8356"
+      "class": "text",
+      "id": "411336DE-CF8F-43E7-98C7-C007AF2A7556"
     },
     {
-      "class": "symbolInstance",
-      "id": "14096E77-10FA-447B-97B7-37B31BFDE21E"
+      "class": "rectangle",
+      "id": "576AF454-8F33-4D2B-9C41-EB070078DC86"
     }
   ],
-  "name": "Button",
-  "nameIsFixed": true,
-  "resizesContent": false,
+  "name": "Collections/Menu/Pointing/Secondary/Item",
+  "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "411336DE-CF8F-43E7-98C7-C007AF2A7556_stringValue"
+    }
+  ],
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -76,6 +86,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "9E1A7A7B-BA69-49B5-AC69-DF8062F018D5",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

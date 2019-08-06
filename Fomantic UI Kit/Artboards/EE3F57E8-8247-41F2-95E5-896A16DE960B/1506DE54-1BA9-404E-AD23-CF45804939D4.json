@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5F32AF8D-8BC4-4A3A-AF21-2578F598E2B2",
+  "do_objectID": "1506DE54-1BA9-404E-AD23-CF45804939D4",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
-    "width": 85,
+    "height": 26,
+    "width": 52,
     "x": 50,
-    "y": 50
+    "y": 122
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,14 +28,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Elements/Button/Standard",
+  "name": "Elements/Label/Standard",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "75F0D07E-0B41-4379-B3A9-FACB0CF2B2B8",
-      "overrideName": "E28B9828-E51B-464E-B027-27320E627CCF_stringValue",
-      "value": "Button"
+      "do_objectID": "2BD20714-81B7-431F-8092-DC4E564182D0",
+      "overrideName": "39B8E439-2DFD-451C-B1BD-225B13CAB099_stringValue",
+      "value": "Label"
     }
   ],
   "resizingConstraint": 63,
@@ -50,6 +50,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "2B301B03-E869-4962-805E-06AE4694892E",
+  "symbolID": "87C60FF1-FF31-4273-900A-D7E56F594B78",
   "verticalSpacing": 0
 }

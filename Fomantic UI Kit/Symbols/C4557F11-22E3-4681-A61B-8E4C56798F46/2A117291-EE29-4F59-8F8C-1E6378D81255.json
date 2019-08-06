@@ -9,37 +9,40 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "HelveticaNeue-Medium",
-              "size": 10.5
+              "name": "HelveticaNeue-Bold",
+              "size": 12
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 12,
+            "minimumLineHeight": 12
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 30,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "Not part of the Fomantic spec."
+    "string": "Label"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "851BA7BC-8924-49CD-BCB5-FD7ED1D8B502",
+  "do_objectID": "2A117291-EE29-4F59-8F8C-1E6378D81255",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "64742C0B-0EDA-4CC9-8965-20F63D413FEB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,12 +53,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "13E4B70A-052F-48FB-BCCF-85D2FA313378",
     "height": 12,
-    "width": 149,
+    "width": 32,
     "x": 10,
-    "y": 10
+    "y": 7
   },
-  "glyphBounds": "{{0, 2}, {148, 11}}",
+  "glyphBounds": "{{0, 2}, {31, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,14 +68,16 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Not part of the Foma",
+  "name": "Label",
   "nameIsFixed": false,
-  "resizingConstraint": 10,
+  "resizingConstraint": 42,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "81D07058-B0E1-4361-AC3B-2DE505301916",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "965984F3-437A-4F21-B546-8EE2A54E0700",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -81,21 +87,23 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "HelveticaNeue-Medium",
-            "size": 10.5
+            "name": "HelveticaNeue-Bold",
+            "size": 12
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 12,
+          "minimumLineHeight": 12
         },
         "textStyleVerticalAlignmentKey": 0
       },

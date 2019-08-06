@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 1,
+            "alpha": 0.95,
             "blue": 0,
             "green": 0,
             "red": 0
@@ -16,30 +16,33 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "HelveticaNeue-Medium",
-              "size": 10.5
+              "name": "HelveticaNeue-Bold",
+              "size": 14
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 14,
+            "minimumLineHeight": 14
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 30,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "Not part of the Fomantic spec."
+    "string": "Menu Item"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "851BA7BC-8924-49CD-BCB5-FD7ED1D8B502",
+  "do_objectID": "EFB131BF-7A31-490A-81DE-4937871ADF38",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "6783EA5A-C34F-4E7D-8AEF-93930CE070F2",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,12 +53,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 12,
-    "width": 149,
-    "x": 10,
-    "y": 10
+    "do_objectID": "FA7D5915-1F4E-4A35-B0B7-251A6773A30F",
+    "height": 14,
+    "width": 72,
+    "x": 16,
+    "y": 12
   },
-  "glyphBounds": "{{0, 2}, {148, 11}}",
+  "glyphBounds": "{{0, 3}, {71, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Not part of the Foma",
+  "name": "Menu Item",
   "nameIsFixed": false,
   "resizingConstraint": 10,
   "resizingType": 0,
@@ -72,15 +76,17 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "C1B28D1E-434E-4AEB-A57F-387F2D8BAA13",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "1BF51CFE-21BD-42EA-B531-A5C38BA6CA88",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 1,
+          "alpha": 0.95,
           "blue": 0,
           "green": 0,
           "red": 0
@@ -88,14 +94,16 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "HelveticaNeue-Medium",
-            "size": 10.5
+            "name": "HelveticaNeue-Bold",
+            "size": 14
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 14,
+          "minimumLineHeight": 14
         },
         "textStyleVerticalAlignmentKey": 0
       },

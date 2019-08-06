@@ -52,7 +52,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 15,
-    "width": 23,
+    "width": 200,
     "x": 0,
     "y": 65
   },
@@ -67,7 +67,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Note",
   "nameIsFixed": false,
-  "resizingConstraint": 35,
+  "resizingConstraint": 10,
   "resizingType": 0,
   "rotation": 0,
   "sharedStyleID": "100D9B74-E04F-49C3-94BF-F4C721FF5724",
@@ -107,5 +107,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }
