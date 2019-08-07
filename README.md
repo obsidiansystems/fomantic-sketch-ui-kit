@@ -15,7 +15,7 @@ Please follow the guidelines of the Sketch file when making a pull request.
 
 ## Git Commit Protocol
 
-The amazing free software [Kactus](https://kactus.io) is used to visually manage commits and diffs. The [Fomantic UI Kit](Fomantic UI Kit) directory is a result of using Kactus and should not be removed as it is essential for Kactus to work.
+The amazing free software [Kactus](https://kactus.io) is used to visually manage commits and diffs. The [Fomantic UI Kit](Fomantic%20UI%20Kit) directory is a result of using Kactus and should not be removed as it is essential for Kactus to work.
 
 All pull requests should use Kactus, otherwise they will likely be rejected.
 
