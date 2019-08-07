@@ -4,12 +4,20 @@ This is an open project to create a Sketch UI Kit for [Fomantic UI](https://foma
 
 # Making a Pull Request
 
+## Sketch File Protocol
+
 Please follow the guidelines of the Sketch file when making a pull request. 
 
 1. Organize your components using the same naming scheme as already exists.
 2. Use existing Layer and Text Styles where possible.
 3. Create new Layer and Text Styles for anything that can use them. Avoid creating one-off styles where possible, even if you only use the style once in your pull request.
 4. Construct components so they can easily be modified using the built in Sketch overrides to achieve replicating the various states that Fomantic UI provides.
+
+## Git Commit Protocol
+
+The amazing free software [Kactus](https://kactus.io) is used to visually manage commits and diffs. The [Fomantic UI Kit](Fomantic-UI-Kit) directory is a result of using Kactus and should not be removed as it is essential for Kactus to work.
+
+All pull requests should use Kactus, otherwise they will likely be rejected.
 
 # License
 
