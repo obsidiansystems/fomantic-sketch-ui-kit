@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 204,
+  "changeIdentifier": 205,
   "clippingMaskMode": 0,
   "do_objectID": "BE88AE7A-660C-419E-8615-BEDF8A5D3559",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "BE488547-98B9-465A-BFE4-592BEA83CF4A"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -66,7 +66,7 @@
       "id": "0A4F6A02-05CF-4B50-9E02-CA1DA5B5867C"
     }
   ],
-  "name": "Elements/Segment/Colored",
+  "name": "Elements/Segment/Colored/Standard Padding",
   "nameIsFixed": true,
   "overrideProperties": [
     {

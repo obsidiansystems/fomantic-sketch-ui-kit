@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 48,
+  "changeIdentifier": 49,
   "clippingMaskMode": 0,
   "do_objectID": "85C31D57-64B3-4243-9E33-2A6D30F75F32",
   "exportOptions": {
@@ -61,11 +61,6 @@
   "name": "Modules/Modal/Header/No Exit",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "4B50F582-E814-4600-A9B0-426911A07E42_symbolID"
-    }
   ],
   "resizesContent": false,
   "resizingConstraint": 63,

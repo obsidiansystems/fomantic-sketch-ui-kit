@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 4,
+  "changeIdentifier": 6,
   "clippingMaskMode": 0,
   "do_objectID": "68853887-E27A-4F92-9EE6-EBFC43B1BDBE",
   "exportOptions": {
@@ -61,8 +61,8 @@
       "id": "A709AB8D-275A-4673-AFFF-EF7516DB9046"
     }
   ],
-  "name": "Elements/Segment/Colored Very Padded",
-  "nameIsFixed": false,
+  "name": "Elements/Segment/Colored/Very Padded",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",

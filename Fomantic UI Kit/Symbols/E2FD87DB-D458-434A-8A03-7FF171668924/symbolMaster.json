@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 56,
+  "changeIdentifier": 57,
   "clippingMaskMode": 0,
   "do_objectID": "E2FD87DB-D458-434A-8A03-7FF171668924",
   "exportOptions": {
@@ -61,7 +61,7 @@
       "id": "E28B9828-E51B-464E-B027-27320E627CCF"
     }
   ],
-  "name": "Elements/Button/Standard",
+  "name": "Elements/Button/Standard/Gray",
   "nameIsFixed": true,
   "overrideProperties": [
     {
