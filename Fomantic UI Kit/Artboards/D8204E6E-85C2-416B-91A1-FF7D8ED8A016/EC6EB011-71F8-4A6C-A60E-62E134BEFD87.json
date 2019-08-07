@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EC6EB011-71F8-4A6C-A60E-62E134BEFD87",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "13ACEB6E-9341-476C-8EA4-CAB4771539B3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "09167C05-AE47-4B08-BFC4-19D245863E9A",
+    "height": 25,
+    "width": 100,
+    "x": 50,
+    "y": 105
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Modules/Progress/Standard/Progress",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9CA19C58-AD75-4EB5-947D-5216C5226C40",
+      "overrideName": "2CA8FE48-9350-44EF-AC30-328ADB822543_layerStyle",
+      "value": "CD5BD3C0-B736-4D7F-BF81-6553F5A3B3E2"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C5B62736-B89C-46FF-9A08-ACA97E12F215",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F554EFA8-DDB3-48D0-AB87-4476559550BD",
+  "verticalSpacing": 0
+}

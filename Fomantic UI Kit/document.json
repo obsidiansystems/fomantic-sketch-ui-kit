@@ -362,6 +362,26 @@
           "green": 0,
           "red": 0
         }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 0.1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5333333333333333,
+          "green": 0.5333333333333333,
+          "red": 0.5333333333333333
+        }
       }
     ],
     "colors": [
@@ -616,6 +636,20 @@
         "blue": 0,
         "green": 0,
         "red": 0
+      },
+      {
+        "_class": "color",
+        "alpha": 0.1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5333333333333333,
+        "green": 0.5333333333333333,
+        "red": 0.5333333333333333
       }
     ],
     "gradientAssets": [
