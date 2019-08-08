@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E85C4E40-2365-4915-983D-8931333E67C3",
+  "do_objectID": "AEC1A350-CAE1-494A-8F20-42B1C6C95FB2",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 99,
+    "height": 36,
+    "width": 93,
     "x": 51,
-    "y": 307
+    "y": 212
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,13 +28,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Collections/Menu/Pointing/Secondary/Item/Item",
+  "name": "Collections/Menu/Secondary/Acitve Item",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "77FB9657-C25F-4E6C-AD9E-EAB82759677A",
-      "overrideName": "411336DE-CF8F-43E7-98C7-C007AF2A7556_stringValue",
+      "do_objectID": "8D84541D-E71F-4FE0-ACB9-75FCE08BE3DA",
+      "overrideName": "42C0174B-4804-4E7D-9856-5E6FD82FBB9B_stringValue",
       "value": "Menu Item"
     }
   ],
@@ -50,6 +50,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "9E1A7A7B-BA69-49B5-AC69-DF8062F018D5",
+  "symbolID": "14ECFBED-46B9-4AB1-8C70-431A9FEEC9B6",
   "verticalSpacing": 0
 }

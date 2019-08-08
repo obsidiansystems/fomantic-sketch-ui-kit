@@ -85,6 +85,18 @@
     {
       "class": "symbolInstance",
       "id": "856311FF-DB0E-47A4-821E-C14F008316C8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AEC1A350-CAE1-494A-8F20-42B1C6C95FB2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6FD26E7C-3166-4701-8F14-E6034838EFE6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3FA23866-7477-448B-B83D-6E4E4898B8DC"
     }
   ],
   "name": "Menu",

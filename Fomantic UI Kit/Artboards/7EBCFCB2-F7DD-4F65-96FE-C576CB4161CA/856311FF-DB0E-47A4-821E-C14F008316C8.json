@@ -20,7 +20,7 @@
     "height": 40,
     "width": 99,
     "x": 348,
-    "y": 226
+    "y": 307
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Collections/Menu/Pointing/Secondary/Item",
+  "name": "Collections/Menu/Pointing/Secondary/Item/Item",
   "nameIsFixed": false,
   "overrideValues": [
   ],

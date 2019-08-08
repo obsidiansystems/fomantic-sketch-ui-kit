@@ -5,17 +5,15 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "59EE220C-FA05-46FB-BBB2-CB9F5AD95C05",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 187,
+  "changeIdentifier": 11,
   "clippingMaskMode": 0,
-  "do_objectID": "12D74315-BF0E-4007-907D-9611332395DB",
+  "do_objectID": "0EB45E92-7846-497C-BC31-3000AFE062D1",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5668418D-0D74-45B3-9BFE-888415CF8CAE",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -26,15 +24,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "24902154-0AE7-430E-9DCB-4CDD3EAD4D51",
     "height": 36,
-    "width": 150,
-    "x": 4233,
+    "width": 93,
+    "x": 5543,
     "y": 0
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "1D399E20-DB2B-4345-9E31-073C032639EC"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -42,7 +38,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "15EA07FC-FF51-4ADD-92D2-9DA870AE5726",
     "guides": [
     ]
   },
@@ -59,20 +54,20 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "70B7B54E-4A66-4EFD-917D-D50CF0383AD6"
+      "id": "06527213-3CC4-44B7-8B9F-E5460BAA24D9"
     },
     {
       "class": "text",
-      "id": "993AD036-C444-4D10-92DB-2CB51A932056"
+      "id": "42C0174B-4804-4E7D-9856-5E6FD82FBB9B"
     }
   ],
-  "name": "Collections/Menu/Vertical Menu/Item/Bottom",
+  "name": "Collections/Menu/Secondary/Acitve Item",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "993AD036-C444-4D10-92DB-2CB51A932056_stringValue"
+      "overrideName": "42C0174B-4804-4E7D-9856-5E6FD82FBB9B_stringValue"
     }
   ],
   "resizesContent": true,
@@ -82,17 +77,15 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "9E70419E-661D-4431-BF8C-FF5E64BE3D13",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "02877384-4C23-4E3F-8AD2-20FA82FD605C",
+  "symbolID": "14ECFBED-46B9-4AB1-8C70-431A9FEEC9B6",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "77FF1F41-72FF-41AF-92A8-6D14BD4D3D4C",
     "guides": [
     ]
   }

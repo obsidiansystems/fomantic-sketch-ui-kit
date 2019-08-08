@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E85C4E40-2365-4915-983D-8931333E67C3",
+  "do_objectID": "6FD26E7C-3166-4701-8F14-E6034838EFE6",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "21B0D188-CA21-4857-8283-85515B300A00",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 99,
-    "x": 51,
-    "y": 307
+    "do_objectID": "CCB1B157-5CEE-4D06-A20A-E851346C3303",
+    "height": 36,
+    "width": 93,
+    "x": 154,
+    "y": 212
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,13 +30,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Collections/Menu/Pointing/Secondary/Item/Item",
+  "name": "Collections/Menu/Secondary/Item",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "77FB9657-C25F-4E6C-AD9E-EAB82759677A",
-      "overrideName": "411336DE-CF8F-43E7-98C7-C007AF2A7556_stringValue",
+      "do_objectID": "196569D5-EDDC-4D79-B2CE-EE42AF23084F",
+      "overrideName": "376DFFE1-9396-42CA-98C4-7BD825591629_stringValue",
       "value": "Menu Item"
     }
   ],
@@ -45,11 +47,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "9E98B30E-B8A6-4DA5-84A9-05208E8AD6FD",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "9E1A7A7B-BA69-49B5-AC69-DF8062F018D5",
+  "symbolID": "A65968CC-9CE5-4C94-A42B-3018720455B7",
   "verticalSpacing": 0
 }

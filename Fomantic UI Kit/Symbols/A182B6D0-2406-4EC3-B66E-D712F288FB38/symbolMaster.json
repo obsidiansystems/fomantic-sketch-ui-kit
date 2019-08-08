@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 119,
+  "changeIdentifier": 120,
   "clippingMaskMode": 0,
   "do_objectID": "A182B6D0-2406-4EC3-B66E-D712F288FB38",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "972C2B20-0CDE-4E26-AD83-EB233503C790"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -70,7 +70,7 @@
       "id": "0BB9E24F-2993-49E4-A15D-93B93AE24FF0"
     }
   ],
-  "name": "Collections/Menu/Pointing/Secondary/Item Active",
+  "name": "Collections/Menu/Pointing/Secondary/Item/Active",
   "nameIsFixed": true,
   "overrideProperties": [
     {
