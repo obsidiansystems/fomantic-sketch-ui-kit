@@ -61,6 +61,10 @@
     {
       "class": "symbolInstance",
       "id": "1506DE54-1BA9-404E-AD23-CF45804939D4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CE025E48-F9B7-4CC6-8425-C7BCAA8DC704"
     }
   ],
   "name": "Label",

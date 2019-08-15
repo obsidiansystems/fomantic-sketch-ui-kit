@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "23E6860B-EE43-4A1C-9EB9-4D936E903D34",
+  "do_objectID": "82054723-3481-483E-BA93-0517E98F68F7",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "DA3507A3-F4A2-413A-8545-09F81583B108",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,9 +16,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "72E7D952-8848-48D1-8EEC-98B4B374783F",
     "height": 61,
     "width": 200,
-    "x": 50,
+    "x": 300,
     "y": 50
   },
   "hasClippingMask": false,
@@ -33,8 +35,8 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "F5AEA912-918A-42D5-A368-0200C47BCB32",
-      "overrideName": "1AB0F1AE-3B27-4404-A138-952FD2E9E7FC/608970A8-C9D6-4B75-A3E2-665215B7EFF4_stringValue",
+      "do_objectID": "6E6972C3-9E02-45A1-8756-878C8F6445A1",
+      "overrideName": "FE56C371-C03B-4626-B395-9C5F53AE66D6/608970A8-C9D6-4B75-A3E2-665215B7EFF4_stringValue",
       "value": "Placeholder"
     }
   ],
@@ -45,11 +47,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "F98AD43B-FE4E-4620-83E2-CBB50A49D137",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "29F38153-BABB-445E-9E18-2724CF0231E9",
+  "symbolID": "EB62D6B7-C1A7-407E-9244-7EA37AAD1160",
   "verticalSpacing": 0
 }

@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "23E6860B-EE43-4A1C-9EB9-4D936E903D34",
+  "do_objectID": "CE025E48-F9B7-4CC6-8425-C7BCAA8DC704",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 61,
-    "width": 200,
+    "height": 26,
+    "width": 73,
     "x": 50,
-    "y": 50
+    "y": 185
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,14 +28,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Collections/Field",
+  "name": "Elements/Label/Standard/Gray with Icon",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "F5AEA912-918A-42D5-A368-0200C47BCB32",
-      "overrideName": "1AB0F1AE-3B27-4404-A138-952FD2E9E7FC/608970A8-C9D6-4B75-A3E2-665215B7EFF4_stringValue",
-      "value": "Placeholder"
+      "do_objectID": "DEBCEB61-DB46-4563-A9B6-27C18CC1FBD2",
+      "overrideName": "1AC5B19A-D53D-4D8F-BB04-C7C1B991A4BB_stringValue",
+      "value": "Label"
     }
   ],
   "resizingConstraint": 63,
@@ -50,6 +50,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "29F38153-BABB-445E-9E18-2724CF0231E9",
+  "symbolID": "82F948BB-2394-4DCC-B44D-03C34B5C4845",
   "verticalSpacing": 0
 }
