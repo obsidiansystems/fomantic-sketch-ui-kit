@@ -30,14 +30,21 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Collections/Field",
+  "maintainScrollPosition": false,
+  "name": "Collections/Field Error",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "6E6972C3-9E02-45A1-8756-878C8F6445A1",
+      "do_objectID": "54489CBD-7BF7-4465-9C2A-B3CB041C0DED",
       "overrideName": "FE56C371-C03B-4626-B395-9C5F53AE66D6/608970A8-C9D6-4B75-A3E2-665215B7EFF4_stringValue",
       "value": "Placeholder"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5D9C6620-8F9B-4B17-863C-31BE1C40D85E",
+      "overrideName": "6E685036-84BF-43DA-99A9-46FA648E4D2D_stringValue",
+      "value": "Label"
     }
   ],
   "resizingConstraint": 63,
@@ -47,9 +54,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "F98AD43B-FE4E-4620-83E2-CBB50A49D137",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

@@ -28,7 +28,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Elements/Label/Standard/Gray with Icon",
+  "maintainScrollPosition": false,
+  "name": "Elements/Label/With Icon/Standard",
   "nameIsFixed": false,
   "overrideValues": [
     {
@@ -36,6 +37,12 @@
       "do_objectID": "DEBCEB61-DB46-4563-A9B6-27C18CC1FBD2",
       "overrideName": "1AC5B19A-D53D-4D8F-BB04-C7C1B991A4BB_stringValue",
       "value": "Label"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7D81D1F3-5C31-49FB-AAB7-CDCBEF38D23E",
+      "overrideName": "EE78D624-C503-4D71-B0C6-AA4D80AA40BC_stringValue",
+      "value": ""
     }
   ],
   "resizingConstraint": 63,
@@ -45,8 +52,46 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

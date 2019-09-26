@@ -69,6 +69,14 @@
     },
     {
       "class": "artboard",
+      "id": "C292477B-FFC3-4370-AE0B-C3E2CC9B3C8C"
+    },
+    {
+      "class": "artboard",
+      "id": "E41A0EB6-2E14-4798-92DF-D8B8A1A9E0AA"
+    },
+    {
+      "class": "artboard",
       "id": "E249A7CA-A2C5-4200-842B-04DD10AFA0C4"
     },
     {
@@ -120,6 +128,7 @@
       "id": "BEBB391A-35D9-41BB-A0BD-2CF9A170862B"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Artboards",
   "nameIsFixed": true,
   "resizingConstraint": 0,
@@ -128,8 +137,46 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

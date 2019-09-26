@@ -55,7 +55,15 @@
     },
     {
       "class": "symbolInstance",
+      "id": "8E0D1049-14B3-475E-ADB3-6738EDFF8362"
+    },
+    {
+      "class": "symbolInstance",
       "id": "69967155-BCCF-474C-8EC9-9E34A2F948B1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CE7100C3-52AE-4D1D-8A98-8F006FE9680E"
     },
     {
       "class": "symbolInstance",
@@ -64,10 +72,17 @@
     {
       "class": "symbolInstance",
       "id": "14096E77-10FA-447B-97B7-37B31BFDE21E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0E0D4A65-256E-4F10-8C8B-628C1A56D8C1"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Button",
   "nameIsFixed": true,
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -75,8 +90,46 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

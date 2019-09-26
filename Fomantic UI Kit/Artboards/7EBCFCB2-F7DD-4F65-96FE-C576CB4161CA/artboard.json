@@ -60,7 +60,15 @@
     },
     {
       "class": "symbolInstance",
+      "id": "775DEA78-7C34-4E26-8837-E3A0A6C41E1E"
+    },
+    {
+      "class": "symbolInstance",
       "id": "58F6A921-814D-487B-929B-142A58D4EC2E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "363C4565-8070-4941-A257-9A9180CFC23E"
     },
     {
       "class": "symbolInstance",
@@ -99,8 +107,11 @@
       "id": "3FA23866-7477-448B-B83D-6E4E4898B8DC"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Menu",
   "nameIsFixed": true,
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -108,9 +119,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "E1E2A3A5-4590-47F6-9EA7-35765415F541",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
