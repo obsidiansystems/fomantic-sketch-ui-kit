@@ -1,7 +1,7 @@
 {
   "_class": "sharedStyle",
-  "do_objectID": "83F60368-86A5-40DE-91F3-BF01B4C6FB26",
-  "name": "Message/Standard/Header",
+  "do_objectID": "7D14C9B7-425B-48A6-A205-8D4411B77D56",
+  "name": "Input/Text/Value Center Align",
   "value": {
     "_class": "style",
     "blur": {
@@ -50,7 +50,7 @@
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0.87,
+          "alpha": 0.8,
           "blue": 0,
           "green": 0,
           "red": 0
@@ -58,16 +58,14 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "HelveticaNeue-Bold",
-            "size": 16
+            "name": "HelveticaNeue",
+            "size": 14
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 20,
-          "minimumLineHeight": 20
+          "alignment": 2,
+          "allowsDefaultTighteningForTruncation": 0
         }
       },
       "verticalAlignment": 0
